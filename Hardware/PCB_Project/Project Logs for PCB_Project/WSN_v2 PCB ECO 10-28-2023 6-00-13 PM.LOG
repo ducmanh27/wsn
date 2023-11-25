@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB12 Pin=R12-2
+Removed Pin From Net: NetName=PB13 Pin=R13-2
+Removed Pin From Net: NetName=PB14 Pin=R14-2
+Added Pin To Net: NetName=PA0 Pin=R12-2
+Added Pin To Net: NetName=PC15 Pin=R13-2
+Added Pin To Net: NetName=PC14 Pin=R14-2
+Added Room: Name=WSN_v1

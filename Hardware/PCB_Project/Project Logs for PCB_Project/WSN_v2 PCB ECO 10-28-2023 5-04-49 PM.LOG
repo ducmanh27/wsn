@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=5V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=5V Pin=U1-3
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-5
+Removed Member From Class: ClassName=WSN_v1 Member=C3
+Removed Member From Class: ClassName=WSN_v1 Member=C4
+Removed Member From Class: ClassName=WSN_v1 Member=C5
+Removed Member From Class: ClassName=WSN_v1 Member=U1
+Change Component Footprint: Designator=C1 Old Footprint=tu 0805 New Footprint=C_FC_10UF_16V
+Change Component Footprint: Designator=C2 Old Footprint=tu 0805 New Footprint=C_FC_10UF_16V
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=10uF, 16V
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=10uF, 16V
+Change component parameters: Designator = "C1" ("C1"); Footprint = "tu 0805"; UniqueID = "\ZECRLTTS" ("\ZECRLTTS")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "tu 0805"; UniqueID = "\CZHFPQFN" ("\CZHFPQFN")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=AMS1(SOT223-4N)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AMS1-1
+Added Pin To Net: NetName=VCC3V3 Pin=AMS1-2
+Added Pin To Net: NetName=5V Pin=AMS1-3
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Member To Class: ClassName=WSN_v1 Member=Component AMS1 AMS1117-3.3V
+Added Room: Name=WSN_v1

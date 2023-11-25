@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Y2 Old Footprint=Thach Anh 2 Chan 32,768 KHz New Footprint=XTAL_ABS07-32.768KHZ-T
+Change Component Comment : Designator=Y2 Old Comment=32.768khz New Comment=ABS07-32.768KHZ-T
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "Thach Anh 2 Chan 32,768 KHz"; UniqueID = "\CJUGDYTR" ("\CJUGDYTR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ABS07-32.768KHZ-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=WSN_v1
